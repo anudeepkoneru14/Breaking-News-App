@@ -14,6 +14,6 @@ A Streamlit app to fetch live news by region or keyword with real-time sentiment
 ### 1. Clone or create the folder
 
 ```bash
-git clone https://github.com/anudeepkoneru14/breaking_news_app
+git clone https://github.com/anudeepkoneru14/Breaking_News_App
 cd breaking_news_app
 ```
